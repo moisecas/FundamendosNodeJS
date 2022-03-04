@@ -4,3 +4,5 @@ let nombre = process.env.NOMBRE || "sin nombre"; //pasar variables, definir vari
 
 console.log("hola " + nombre); 
 
+
+
